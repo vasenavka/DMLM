@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/444099785527787804/0748cf6991234a4a862d3661646b1364/artifacts
+end_time: 1727680506798
+entry_point_name: ''
+experiment_id: '444099785527787804'
+lifecycle_stage: active
+run_id: 0748cf6991234a4a862d3661646b1364
+run_name: Logistic Regression
+run_uuid: 0748cf6991234a4a862d3661646b1364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727680506622
+status: 3
+tags: []
+user_id: yuriy

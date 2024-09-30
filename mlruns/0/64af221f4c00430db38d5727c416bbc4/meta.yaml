@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/0/64af221f4c00430db38d5727c416bbc4/artifacts
+end_time: 1727689786747
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64af221f4c00430db38d5727c416bbc4
+run_name: colorful-shad-0
+run_uuid: 64af221f4c00430db38d5727c416bbc4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727689782249
+status: 3
+tags: []
+user_id: yuriy

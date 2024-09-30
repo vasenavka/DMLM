@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/444099785527787804/3b20823506754190b36ee34e9ec3e59b/artifacts
+end_time: 1727691280372
+entry_point_name: ''
+experiment_id: '444099785527787804'
+lifecycle_stage: active
+run_id: 3b20823506754190b36ee34e9ec3e59b
+run_name: Dummy Classifier
+run_uuid: 3b20823506754190b36ee34e9ec3e59b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727691280194
+status: 3
+tags: []
+user_id: yuriy

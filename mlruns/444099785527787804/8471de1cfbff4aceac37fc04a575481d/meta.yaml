@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/444099785527787804/8471de1cfbff4aceac37fc04a575481d/artifacts
+end_time: 1727680508216
+entry_point_name: ''
+experiment_id: '444099785527787804'
+lifecycle_stage: active
+run_id: 8471de1cfbff4aceac37fc04a575481d
+run_name: Linear Discriminant Analysis
+run_uuid: 8471de1cfbff4aceac37fc04a575481d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727680508052
+status: 3
+tags: []
+user_id: yuriy

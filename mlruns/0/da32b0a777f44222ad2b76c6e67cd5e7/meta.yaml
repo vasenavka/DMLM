@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/0/da32b0a777f44222ad2b76c6e67cd5e7/artifacts
+end_time: 1727538178428
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da32b0a777f44222ad2b76c6e67cd5e7
+run_name: silent-jay-589
+run_uuid: da32b0a777f44222ad2b76c6e67cd5e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727538178380
+status: 4
+tags: []
+user_id: yuriy

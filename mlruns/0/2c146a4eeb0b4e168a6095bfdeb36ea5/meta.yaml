@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/0/2c146a4eeb0b4e168a6095bfdeb36ea5/artifacts
+end_time: 1727634290808
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2c146a4eeb0b4e168a6095bfdeb36ea5
+run_name: bald-shrew-80
+run_uuid: 2c146a4eeb0b4e168a6095bfdeb36ea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727634287580
+status: 3
+tags: []
+user_id: yuriy

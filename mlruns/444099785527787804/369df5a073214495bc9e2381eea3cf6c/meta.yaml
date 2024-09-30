@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/444099785527787804/369df5a073214495bc9e2381eea3cf6c/artifacts
+end_time: 1727691277860
+entry_point_name: ''
+experiment_id: '444099785527787804'
+lifecycle_stage: active
+run_id: 369df5a073214495bc9e2381eea3cf6c
+run_name: Random Forest Classifier
+run_uuid: 369df5a073214495bc9e2381eea3cf6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727691277673
+status: 3
+tags: []
+user_id: yuriy

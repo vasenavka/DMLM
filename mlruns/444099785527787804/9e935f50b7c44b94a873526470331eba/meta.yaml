@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/444099785527787804/9e935f50b7c44b94a873526470331eba/artifacts
+end_time: 1727680506233
+entry_point_name: ''
+experiment_id: '444099785527787804'
+lifecycle_stage: active
+run_id: 9e935f50b7c44b94a873526470331eba
+run_name: Ridge Classifier
+run_uuid: 9e935f50b7c44b94a873526470331eba
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727680506051
+status: 3
+tags: []
+user_id: yuriy

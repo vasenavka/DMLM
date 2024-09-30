@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/444099785527787804/8e9153b9c412439ab4a8b84a3ed2b4c0/artifacts
+end_time: 1727691276613
+entry_point_name: ''
+experiment_id: '444099785527787804'
+lifecycle_stage: active
+run_id: 8e9153b9c412439ab4a8b84a3ed2b4c0
+run_name: SVM - Linear Kernel
+run_uuid: 8e9153b9c412439ab4a8b84a3ed2b4c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727691276356
+status: 3
+tags: []
+user_id: yuriy

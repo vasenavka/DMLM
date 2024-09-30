@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/444099785527787804/80f0308031a5480c8f4f7390d125d7c7/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '444099785527787804'
+lifecycle_stage: active
+run_id: 80f0308031a5480c8f4f7390d125d7c7
+run_name: Session Initialized 97a4
+run_uuid: 80f0308031a5480c8f4f7390d125d7c7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727690233697
+status: 1
+tags: []
+user_id: yuriy

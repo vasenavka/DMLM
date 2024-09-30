@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/0/75383185398445d19b1e027f31547d63/artifacts
+end_time: 1727634287570
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75383185398445d19b1e027f31547d63
+run_name: bright-lark-363
+run_uuid: 75383185398445d19b1e027f31547d63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727634283895
+status: 3
+tags: []
+user_id: yuriy

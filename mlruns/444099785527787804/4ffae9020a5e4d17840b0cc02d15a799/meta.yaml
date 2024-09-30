@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/444099785527787804/4ffae9020a5e4d17840b0cc02d15a799/artifacts
+end_time: 1727691285842
+entry_point_name: ''
+experiment_id: '444099785527787804'
+lifecycle_stage: active
+run_id: 4ffae9020a5e4d17840b0cc02d15a799
+run_name: Extra Trees Classifier
+run_uuid: 4ffae9020a5e4d17840b0cc02d15a799
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727691281562
+status: 3
+tags: []
+user_id: yuriy

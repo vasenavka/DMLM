@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/0/02618d5478a44d0788a8c45e846c5d36/artifacts
+end_time: 1727634162863
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 02618d5478a44d0788a8c45e846c5d36
+run_name: skillful-bee-453
+run_uuid: 02618d5478a44d0788a8c45e846c5d36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727634157681
+status: 3
+tags: []
+user_id: yuriy

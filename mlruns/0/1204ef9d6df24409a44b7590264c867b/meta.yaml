@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/0/1204ef9d6df24409a44b7590264c867b/artifacts
+end_time: 1727611787983
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1204ef9d6df24409a44b7590264c867b
+run_name: suave-yak-509
+run_uuid: 1204ef9d6df24409a44b7590264c867b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727611787941
+status: 4
+tags: []
+user_id: yuriy

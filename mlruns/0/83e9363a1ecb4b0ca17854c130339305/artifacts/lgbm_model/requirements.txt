@@ -1,0 +1,15 @@
+mlflow==2.16.2
+cffi==1.17.1
+cloudpickle==3.0.0
+dask-expr==1.1.15
+distributed==2024.9.1
+graphviz==0.20.3
+jinja2==3.1.4
+lightgbm==4.5.0
+matplotlib==3.7.5
+numpy==1.26.4
+pandas==2.1.4
+pyarrow==17.0.0
+scikit-learn==1.4.2
+scipy==1.11.4
+xxhash==3.5.0

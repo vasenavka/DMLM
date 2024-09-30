@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/yuriy/PycharmProjects/dmlm_task1/mlruns/444099785527787804/5e24c4c3f1204c75b4f8f867fcbc8a2a/artifacts
+end_time: 1727691279448
+entry_point_name: ''
+experiment_id: '444099785527787804'
+lifecycle_stage: active
+run_id: 5e24c4c3f1204c75b4f8f867fcbc8a2a
+run_name: Decision Tree Classifier
+run_uuid: 5e24c4c3f1204c75b4f8f867fcbc8a2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727691279272
+status: 3
+tags: []
+user_id: yuriy
